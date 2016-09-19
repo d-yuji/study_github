@@ -2,7 +2,4 @@
 
  - go to a park and do SOMETHING
 
-* A
-* B
-* C
- 
+ - His life is in happiness now 
