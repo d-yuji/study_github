@@ -1,10 +1,10 @@
 package sugino_inoue;
 
 public class Main {
-
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
+		Inoue inoue = new Inoue();
+		Sugino sugino = new Sugino("AAAAAAAAAA");
+		inoue.say();
+		sugino.voice();
 	}
-
 }
